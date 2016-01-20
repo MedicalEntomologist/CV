@@ -115,17 +115,17 @@ Responsibilities included research on thesis project as well as several side pro
 
 (VI) Genbank Sequence Submissions
 ---------------------------------
-*Melanotus deitrichi* Quate				EF424473
-*Melanotus communis* (Gyllenhal)		EF424474
-*Melanotus cribulosus* (LeConte)		EF424475
-*Melanotus indistinctus* Quate			EF424476
-*Melanotus lanei* (Quate)				EF424477
-*Melanotus opacicollis* (LeConte)		EF424478
-*Melanotus pilosus* Blatchley			EF424479
-*Melanotus similis* (Kirby)				EF424480
-*Melanotus verberans* (LeConte)			EF424481
-*Melanotus depressus* (Melsheimer)		EF424482
-*Conoderus lividus* (De Geer)			EF424483
+2. *Melanotus deitrichi* Quate				  EF424473
+5. *Melanotus communis* (Gyllenhal)		EF424474
+7. *Melanotus cribulosus* (LeConte)		EF424475
+1. *Melanotus indistinctus* Quate			EF424476
+1. *Melanotus lanei* (Quate)				    EF424477
+1. *Melanotus opacicollis* (LeConte)		EF424478
+1. *Melanotus pilosus* Blatchley			  EF424479
+1. *Melanotus similis* (Kirby)				  EF424480
+1. *Melanotus verberans* (LeConte)			EF424481
+1. *Melanotus depressus* (Melsheimer)	EF424482
+1. *Conoderus lividus* (De Geer)			  EF424483
 
 
 (VII) Grants
@@ -148,17 +148,17 @@ Defense Medical Research and Development Program (DMRDP) DHP 6.7 "Evaluation of 
 
 (IX) Professional Societies, Activities, and Certifications
 -----------------------------------------------------------
-2004 - Present		Member, Entomological Society of America
-2013 - Present		Basic Industrial Hygienist Certification
-2013 - Present		ServSafe Certification
-2012 - Present		DoD Pest Management Certification
-2008-2010			Member, University of Nebraska Linnaean Games Team (National Meeting 2010, 2nd Place)
-2010				Student representative to the faculty, Department of Entomology, University of Nebraska
-2009				President, Bruner Entomological Society, University of Nebraska
-2007				Member, Phi Beta Delta honor society
-2005				Vice President, C.V. Riley Entomological Society, University of Missouri
-2005 - 2006			Member, Graduate Student Council for the Division of Plant Sciences, University of Missouri
-2005 - 2006			Member, University of Missouri Linnaean Games Team (National Champions 2006)
+* 2004 - Present		Member, Entomological Society of America
+* 2013 - Present		Basic Industrial Hygienist Certification
+* 2013 - Present		ServSafe Certification
+* 2012 - Present		DoD Pest Management Certification
+* 2008-2010			Member, University of Nebraska Linnaean Games Team (National Meeting 2010, 2nd Place)
+* 2010				Student representative to the faculty, Department of Entomology, University of Nebraska
+* 2009				President, Bruner Entomological Society, University of Nebraska
+* 2007				Member, Phi Beta Delta honor society
+* 2005				Vice President, C.V. Riley Entomological Society, University of Missouri
+* 2005 - 2006			Member, Graduate Student Council for the Division of Plant Sciences, University of Missouri
+* 2005 - 2006			Member, University of Missouri Linnaean Games Team (National Champions 2006)
 
 (X) Programming Languages
 -------------------------
