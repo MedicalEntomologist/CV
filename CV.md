@@ -46,32 +46,32 @@ Date  |Course
 
 (III) Experience
 ----------------
-*USN Entomology Liaison, CPT, US Army* (September 2015 - present)
-Navy Entomology Center of Excellence, Naval Air Station Jacksonville.
+*USN Entomology Liaison, CPT, US Army* (September 2015 - present)  
+Navy Entomology Center of Excellence, Naval Air Station Jacksonville.  
 Serves as WRAIR Liaison to the Navy as well as Assistant Department Head of the Testing and Evaluation Department. Conducts evaluations on equipment and pesticides for the control of arthropod vectors.
 
-*Executive Officer, CPT, US Army* (June 2014 - June 2015)
-Executive Officer of the 154th Preventive Medicine Detachment, Republic of Korea.
+*Executive Officer, CPT, US Army* (June 2014 - June 2015)  
+Executive Officer of the 154th Preventive Medicine Detachment, Republic of Korea.  
 Responsible for routine sanitary inspections for five military installations, field sanitation training, and retrograde inspections of military equipment leaving the ROK. Responsible for maintaining Fight Tonight standards for Army units on the Peninsula by providing technical expertise in vector control and surveillance, water quality analysis, waste disposal, environmental hazard mitigation, food service sanitation, occupational health, industrial hygiene, and epidemiology. Supported the Commander in maintaining the health, welfare, training, and morale of all Soldiers in the unit.
 
-*Research Entomologist, CPT, US Army* (November 2011 - May 2014)
-Department of Vector Control, Entomology Branch, Walter Reed Army Institute of Research.
+*Research Entomologist, CPT, US Army* (November 2011 - May 2014)  
+Department of Vector Control, Entomology Branch, Walter Reed Army Institute of Research.  
 Developed and conducted research projects on the control of arthropod vectors of disease. PI or co-PI on several MIDRP, DHP, and DWFP projects. Collaborated both internally across departments at the WRAIR and externally with industry partners. Coordinated research projects with overseas DoD laboratories. Contracting Officer Representative on multiple SBIR Phase II and III projects. Served as PROFIS entomologist to the 1st Area Medical Laboratory.
 
-*Graduate Research Assistant* (January 2007 - May 2011)
-Department of Entomology, University of Nebraska - Lincoln, under Dr. Thomas Hunt and Dr. John E. Foster.
+*Graduate Research Assistant* (January 2007 - May 2011)  
+Department of Entomology, University of Nebraska - Lincoln, under Dr. Thomas Hunt and Dr. John E. Foster.  
 Responsibilities included laboratory work on dissertation and side projects, training fellow graduate students, upkeep of laboratory equipment, and purchasing supplies.
 
-*Teaching Assistant* (Spring Semester 2010)
-Department of Entomology, University of Nebraska - Lincoln, under Dr. Tiffany Heng-Moss.
+*Teaching Assistant* (Spring Semester 2010)  
+Department of Entomology, University of Nebraska - Lincoln, under Dr. Tiffany Heng-Moss.  
 Responsibilities included lecturing, supervising laboratory activities, and maintaining student records.
 
-*Intern* (Summer 2009)
-USDA Screwworm Rearing Facility (COPEG), Pacora, Panama, under Dr. Steven Skoda.
+*Intern* (Summer 2009)  
+USDA Screwworm Rearing Facility (COPEG), Pacora, Panama, under Dr. Steven Skoda.  
 Assisted with projects and procedures regarding the rearing of screwworms for sterile male technique.
 
-*Graduate Research Assistant* (August 2004 - December 2006)
-Department of Entomology, University of Missouri - Columbia, under Dr. Thomas Clark.
+*Graduate Research Assistant* (August 2004 - December 2006)  
+Department of Entomology, University of Missouri - Columbia, under Dr. Thomas Clark.  
 Responsibilities included research on thesis project as well as several side projects, purchasing supplies, maintaining the laboratory, and managing grant funds.
 
 
@@ -117,17 +117,17 @@ Responsibilities included research on thesis project as well as several side pro
 
 (VI) Genbank Sequence Submissions
 ---------------------------------
-2. *Melanotus deitrichi* Quate         EF424473
-5. *Melanotus communis* (Gyllenhal)    EF424474
-7. *Melanotus cribulosus* (LeConte)    EF424475
-1. *Melanotus indistinctus* Quate      EF424476
-1. *Melanotus lanei* (Quate)           EF424477
-1. *Melanotus opacicollis* (LeConte)   EF424478
-1. *Melanotus pilosus* Blatchley       EF424479
-1. *Melanotus similis* (Kirby)         EF424480
-1. *Melanotus verberans* (LeConte)     EF424481
-1. *Melanotus depressus* (Melsheimer)  EF424482
-1. *Conoderus lividus* (De Geer)       EF424483
+2. *Melanotus deitrichi* Quate&nbsp&nbspEF424473
+5. *Melanotus communis* (Gyllenhal)&nbspEF424474
+7. *Melanotus cribulosus* (LeConte)&nbspEF424475
+1. *Melanotus indistinctus* Quate&nbspEF424476
+1. *Melanotus lanei* (Quate)&nbsp&nbspEF424477
+1. *Melanotus opacicollis* (LeConte)&nbspEF424478
+1. *Melanotus pilosus* Blatchley&nbspEF424479
+1. *Melanotus similis* (Kirby)&nbsp&nbspEF424480
+1. *Melanotus verberans* (LeConte)&nbspEF424481
+1. *Melanotus depressus* (Melsheimer)&nbspEF424482
+1. *Conoderus lividus* (De Geer)&nbspEF424483
 
 
 (VII) Grants
