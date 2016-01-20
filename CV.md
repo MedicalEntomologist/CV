@@ -171,9 +171,9 @@ Python
 
 (XI) Human Languages
 --------------------
-Spanish   |Advanced  
-Russian   |Intermediate  
-Korean    |Basic  
+Spanish: Advanced  
+Russian: Intermediate  
+Korean:  Basic  
 
 
 (XII) References
