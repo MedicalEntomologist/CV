@@ -152,17 +152,19 @@ Defense Medical Research and Development Program (DMRDP) DHP 6.7 "Evaluation of 
 
 (IX) Professional Societies, Activities, and Certifications
 -----------------------------------------------------------
-* 2004 - Present    Member, Entomological Society of America
-* 2013 - Present    Basic Industrial Hygienist Certification
-* 2013 - Present    ServSafe Certification
-* 2012 - Present    DoD Pest Management Certification
-* 2008-2010         Member, University of Nebraska Linnaean Games Team (National Meeting 2010, 2nd Place)
-* 2010              Student representative to the faculty, Department of Entomology, University of Nebraska
-* 2009              President, Bruner Entomological Society, University of Nebraska
-* 2007              Member, Phi Beta Delta honor society
-* 2005              Vice President, C.V. Riley Entomological Society, University of Missouri
-* 2005 - 2006       Member, Graduate Student Council for the Division of Plant Sciences, University of Missouri
-* 2005 - 2006       Member, University of Missouri Linnaean Games Team (National Champions 2006)
+Date             |Organization
+-----------------|------------
+2004 - Present   |Member, Entomological Society of America
+2013 - Present   |Basic Industrial Hygienist Certification
+2013 - Present   |ServSafe Certification
+2012 - Present   |DoD Pest Management Certification
+2008-2010        |Member, University of Nebraska Linnaean Games Team (National Meeting 2010, 2nd Place)
+2010             |Student representative to the faculty, Department of Entomology, University of Nebraska
+2009             |President, Bruner Entomological Society, University of Nebraska
+2007             |Member, Phi Beta Delta honor society
+2005             |Vice President, C.V. Riley Entomological Society, University of Missouri
+2005 - 2006      |Member, Graduate Student Council for the Division of Plant Sciences, University of Missouri
+2005 - 2006      |Member, University of Missouri Linnaean Games Team (National Champions 2006)
 
 (X) Programming Languages
 -------------------------
