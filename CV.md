@@ -33,6 +33,8 @@ Lindroth, E. 2011. Population Genetics of the Western Bean Cutoworm (Striacosta 
 
 (II) Military Education
 -----------------------
+Date  |Course
+------|------
 2011	|Basic Officer Leadership Course, Fort Sam Houston
 2012	|Operation Entomology Training, NECE NAS Jacksonville
 2013	|6A-F5 Military Preventive Medicine, Fort Sam Houston
