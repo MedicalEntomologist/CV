@@ -117,17 +117,19 @@ Responsibilities included research on thesis project as well as several side pro
 
 (VI) Genbank Sequence Submissions
 ---------------------------------
-2. *Melanotus deitrichi* Quate&nbsp&nbspEF424473
-5. *Melanotus communis* (Gyllenhal)&nbspEF424474
-7. *Melanotus cribulosus* (LeConte)&nbspEF424475
-1. *Melanotus indistinctus* Quate&nbspEF424476
-1. *Melanotus lanei* (Quate)&nbsp&nbspEF424477
-1. *Melanotus opacicollis* (LeConte)&nbspEF424478
-1. *Melanotus pilosus* Blatchley&nbspEF424479
-1. *Melanotus similis* (Kirby)&nbsp&nbspEF424480
-1. *Melanotus verberans* (LeConte)&nbspEF424481
-1. *Melanotus depressus* (Melsheimer)&nbspEF424482
-1. *Conoderus lividus* (De Geer)&nbspEF424483
+Species                     |Accession Number
+:--------------------------:|:---------------:
+*Melanotus deitrichi* Quate |EF424473
+*Melanotus communis* (Gyllenhal)|EF424474
+*Melanotus cribulosus* (LeConte)|EF424475
+*Melanotus indistinctus* Quate|EF424476
+*Melanotus lanei* (Quate)|EF424477
+*Melanotus opacicollis* (LeConte)|EF424478
+*Melanotus pilosus* Blatchley|EF424479
+*Melanotus similis* (Kirby)|EF424480
+*Melanotus verberans* (LeConte)|EF424481
+*Melanotus depressus* (Melsheimer)|EF424482
+*Conoderus lividus* (De Geer)|EF424483
 
 
 (VII) Grants
