@@ -5,12 +5,12 @@ Erica Lindroth
 
 Information
 -----------
->Navy Entomology Center of Excellence
->Box 43, 937 Child St.
->Naval Air Station Jacksonville
->Jacksonville, FL 32212
->904-542-5816
->*erica.j.lindroth.mil@mail.mil*
+>Navy Entomology Center of Excellence  
+>Box 43, 937 Child St.  
+>Naval Air Station Jacksonville  
+>Jacksonville, FL 32212  
+>904-542-5816    
+>*erica.j.lindroth.mil@mail.mil*  
 
 
 (I) Civilian Education
