@@ -77,42 +77,42 @@ Responsibilities included research on thesis project as well as several side pro
 
 (IV) Conference Presentations
 -----------------------------
-* Peck, G., P. Mischler, E. Lindroth, J. Benante, G. Vasquez, F. Castro, and V. Lopez. "Evaluation of Mosquito Attractants and Repellents in the Peruvian Amazon using a Tent-Tunnel" Poster presentation at the Entomological Society of America annual meeting, Portland, OR (November 2014).
+* Peck, G., P. Mischler, **E. Lindroth**, J. Benante, G. Vasquez, F. Castro, and V. Lopez. "Evaluation of Mosquito Attractants and Repellents in the Peruvian Amazon using a Tent-Tunnel" Poster presentation at the Entomological Society of America annual meeting, Portland, OR (November 2014).
 
-* Peck, G., A. Ponlawat, E. Lindroth, R. Lowen, and J. Richardson. "Evaluation of Novel Mosquito Attractants in a Tent-Tunnel" Poster presentation at the Society for Vector Ecology annual meeting, San Antonio, TX (September 2014).
+* Peck, G., A. Ponlawat, **E. Lindroth**, R. Lowen, and J. Richardson. "Evaluation of Novel Mosquito Attractants in a Tent-Tunnel" Poster presentation at the Society for Vector Ecology annual meeting, San Antonio, TX (September 2014).
 
-* Lindroth, E., M. Colacicco-Mayhugh, and G. Zollner. "Development of an Integrated Push-Pull System for Vector Control" Poster presentation at the American Mosquito Control Association annual meeting, Atlantic City, NJ (February 2013).
+* **Lindroth, E.**, M. Colacicco-Mayhugh, and G. Zollner. "Development of an Integrated Push-Pull System for Vector Control" Poster presentation at the American Mosquito Control Association annual meeting, Atlantic City, NJ (February 2013).
 
-* Coudron, T.A., K. Kneeland, E. Lindroth, D.W. Stanley, and J.E. Foster. "AFLP variation on populations of *Podisus maculiventris*" Poster presentation at the Entomological Society of America annual meeting, San Diego, CA (December 2010).
+* Coudron, T.A., K. Kneeland, **E. Lindroth**, D.W. Stanley, and J.E. Foster. "AFLP variation on populations of *Podisus maculiventris*" Poster presentation at the Entomological Society of America annual meeting, San Diego, CA (December 2010).
 
-* Lindroth, E.J., T.E. Hunt, M.D. Culy, S.R. Skoda, D. Lee, and J.E. Foster. "Analysis of western bean cutworm (*Striacosta albicosta* Smith) populations structure across the Midwestern United States" Ten minute paper presentation at the North Central Branch Meeting of the Entomological Society of America, Louisville, KY (March 2010).
+* **Lindroth, E.J.**, T.E. Hunt, M.D. Culy, S.R. Skoda, D. Lee, and J.E. Foster. "Analysis of western bean cutworm (*Striacosta albicosta* Smith) populations structure across the Midwestern United States" Ten minute paper presentation at the North Central Branch Meeting of the Entomological Society of America, Louisville, KY (March 2010).
 
-* Culy, M., E.J. Lindroth, E. King, W. Hendrix III, T.E. Hunt, and J.E. Foster. "Expansion of Western Bean Cutworm as an Economic Pest in the Corn Belt, and Cry1F as a Trait-Delivered Solution for Management" Ten minute paper presentation at the Entomological Society of America annual meeting, Indianapolis, IN (December 2009).
+* Culy, M., **E.J. Lindroth**, E. King, W. Hendrix III, T.E. Hunt, and J.E. Foster. "Expansion of Western Bean Cutworm as an Economic Pest in the Corn Belt, and Cry1F as a Trait-Delivered Solution for Management" Ten minute paper presentation at the Entomological Society of America annual meeting, Indianapolis, IN (December 2009).
 
-* Lindroth, E.J., T.E. Hunt, S. Skoda, M. Culy, D. Lee, and J.E. Foster. "Preliminary Genetic Analysis of Selected Western Bean Cutworm Populations" Poster presentation at the North Central Branch Meeting of the Entomological Society of America, St. Louis, MO (March 2009).
+* **Lindroth, E.J.**, T.E. Hunt, S. Skoda, M. Culy, D. Lee, and J.E. Foster. "Preliminary Genetic Analysis of Selected Western Bean Cutworm Populations" Poster presentation at the North Central Branch Meeting of the Entomological Society of America, St. Louis, MO (March 2009).
 
-* Lindroth, E.J., M.L. Brust, W.W. Hoback, R.J. Wright, T.E. Hunt, and J.E. Foster. "Genetic Analysis of the *Melanoplus packardii* group (Orthoptera: Acrididae) in the Great Plains" Poster presentation at the North Central Branch Meeting of the Entomological Society of America, Columbia, OH (March 2008).
+* **Lindroth, E.J.**, M.L. Brust, W.W. Hoback, R.J. Wright, T.E. Hunt, and J.E. Foster. "Genetic Analysis of the *Melanoplus packardii* group (Orthoptera: Acrididae) in the Great Plains" Poster presentation at the North Central Branch Meeting of the Entomological Society of America, Columbia, OH (March 2008).
 
-* Lindroth, E.J. and T.L. Clark. "Phylogenetic Analysis and Molecular Identification of Economically Important Wireworm (Coleoptera: Elateridae) Species from the Midwest. Poster presentation at the North Central Branch Meeting of the Entomological Society of America, Bloomington, IL (March 2006).
+* **Lindroth, E.J.** and T.L. Clark. "Phylogenetic Analysis and Molecular Identification of Economically Important Wireworm (Coleoptera: Elateridae) Species from the Midwest. Poster presentation at the North Central Branch Meeting of the Entomological Society of America, Bloomington, IL (March 2006).
 
-* Lindroth, E.J. and T.L. Clark. "Molecular Diagnostics of Selected Wireworm (Coleoptera: Elaterdiae) Species from the Midwest" Poster presentation at the Entomological Society of America annual meeting, Fort Lauderdale, FL (December 2005).
+* **Lindroth, E.J.** and T.L. Clark. "Molecular Diagnostics of Selected Wireworm (Coleoptera: Elaterdiae) Species from the Midwest" Poster presentation at the Entomological Society of America annual meeting, Fort Lauderdale, FL (December 2005).
 
 
 (V) Refereed Publications
 -------------------------
-1. Vivian L.A., M. Cavallaro, K.M. Kneeland, E. Lindroth, W.W. Hoback, K.M. Farnsworth, R.R. Harms, J.E. Foster. 2013. Current known range of the Platte River caddisfly, *Ironia plattensis*, and genetic variability among populations from three Nebraska rivers. J. Insect Cons. 17(2): 1-11.
+1. Vivian L.A., M. Cavallaro, K.M. Kneeland, **E. Lindroth**, W.W. Hoback, K.M. Farnsworth, R.R. Harms, J.E. Foster. 2013. Current known range of the Platte River caddisfly, *Ironia plattensis*, and genetic variability among populations from three Nebraska rivers. J. Insect Cons. 17(2): 1-11.
 
-2. Albrecht M., K.M. Kneeland, E. Lindroth, J.E. Foster. 2013. Genetic diversity and relatedness of the mangrove *Rhizophora mangle* L. (Rhizophoraceae) using amplified fragment length polymorphism (AFLP) among locations in Florida, USA and the Caribbean. J. Coast Cons. 17(1): 1-9.
+2. Albrecht M., K.M. Kneeland, **E. Lindroth**, J.E. Foster. 2013. Genetic diversity and relatedness of the mangrove *Rhizophora mangle* L. (Rhizophoraceae) using amplified fragment length polymorphism (AFLP) among locations in Florida, USA and the Caribbean. J. Coast Cons. 17(1): 1-9.
 
-3. Lindroth, E. T.E. Hunt, S.R. Skoda, D. Lee, M.C. Culy, and J.E. Foster. 2012. Population genetics of the western bean cutworm (Lepidoptera: Noctuidae) across the United States. Ann. Entomol. Soc. Am. 105(5): 685-692.
+3. **Lindroth, E.** T.E. Hunt, S.R. Skoda, D. Lee, M.C. Culy, and J.E. Foster. 2012. Population genetics of the western bean cutworm (Lepidoptera: Noctuidae) across the United States. Ann. Entomol. Soc. Am. 105(5): 685-692.
 
-4. Whipple, S.D., E. Lindroth, W.W. Hoback, M.C. Albrecht, and J.E. Foster. 2012. Genetic variability of *Digitonthophagus gazella* (F.) (Coleoptera: Scarabaeidae) from Vieques and South Africa. Coleop. Bull. 66(1): 45-50.
+4. Whipple, S.D., **E. Lindroth**, W.W. Hoback, M.C. Albrecht, and J.E. Foster. 2012. Genetic variability of *Digitonthophagus gazella* (F.) (Coleoptera: Scarabaeidae) from Vieques and South Africa. Coleop. Bull. 66(1): 45-50.
 
-5. Kneeland, K.M., T.A. Coudron, E. Lindroth, D. Stanley, and J.E. Foster. 2011. Geneic variation in field and laboratory populations of the spined soldier bug *Podisus maculiventris*. Entomologia Experimentalis et Applicata. 143(2) 120-126.
+5. Kneeland, K.M., T.A. Coudron, **E. Lindroth**, D. Stanley, and J.E. Foster. 2011. Geneic variation in field and laboratory populations of the spined soldier bug *Podisus maculiventris*. Entomologia Experimentalis et Applicata. 143(2) 120-126.
 
-6. Brust, M. E. Lindroth, W.W. Hoback, R.J. Wright, K. Handford, and J.E. Foster. 2010. Morphological and genetic analyses in the *Melanoplus packardii* group taxa. J. Orthop. Res. 19(2): 281-288.
+6. Brust, M. **E. Lindroth**, W.W. Hoback, R.J. Wright, K. Handford, and J.E. Foster. 2010. Morphological and genetic analyses in the *Melanoplus packardii* group taxa. J. Orthop. Res. 19(2): 281-288.
 
-7. E. Lindroth and T.L. Clark. 2009. Phylogenetic analysis of an economically important species complex of wireworms (Coleoptera: Elateridae). J. Econ. Entomol. 102(2): 743-749.
+7. **E. Lindroth** and T.L. Clark. 2009. Phylogenetic analysis of an economically important species complex of wireworms (Coleoptera: Elateridae). J. Econ. Entomol. 102(2): 743-749.
 
 
 (VI) Genbank Sequence Submissions
