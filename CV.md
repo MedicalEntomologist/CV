@@ -2,7 +2,7 @@
 
 Erica Lindroth
 ==============
->Medical Entomologist
+>Medical Entomologist  
 >Population Geneticist
 
 Information
