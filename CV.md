@@ -1,16 +1,16 @@
-# CV
+
 
 Erica Lindroth
 ==============
 
 Information
 -----------
-Navy Entomology Center of Excellence
-Box 43, 937 Child St.
-Naval Air Station Jacksonville
-Jacksonville, FL 32212
-904-542-5816
-*erica.j.lindroth.mil@mail.mil*
+>Navy Entomology Center of Excellence
+>Box 43, 937 Child St.
+>Naval Air Station Jacksonville
+>Jacksonville, FL 32212
+>904-542-5816
+>*erica.j.lindroth.mil@mail.mil*
 
 
 (I) Civilian Education
@@ -115,17 +115,17 @@ Responsibilities included research on thesis project as well as several side pro
 
 (VI) Genbank Sequence Submissions
 ---------------------------------
-2. *Melanotus deitrichi* Quate				  EF424473
-5. *Melanotus communis* (Gyllenhal)		EF424474
-7. *Melanotus cribulosus* (LeConte)		EF424475
-1. *Melanotus indistinctus* Quate			EF424476
-1. *Melanotus lanei* (Quate)				    EF424477
-1. *Melanotus opacicollis* (LeConte)		EF424478
-1. *Melanotus pilosus* Blatchley			  EF424479
-1. *Melanotus similis* (Kirby)				  EF424480
-1. *Melanotus verberans* (LeConte)			EF424481
-1. *Melanotus depressus* (Melsheimer)	EF424482
-1. *Conoderus lividus* (De Geer)			  EF424483
+2. *Melanotus deitrichi* Quate EF424473
+5. *Melanotus communis* (Gyllenhal) EF424474
+7. *Melanotus cribulosus* (LeConte) EF424475
+1. *Melanotus indistinctus* Quate EF424476
+1. *Melanotus lanei* (Quate) EF424477
+1. *Melanotus opacicollis* (LeConte) EF424478
+1. *Melanotus pilosus* Blatchley EF424479
+1. *Melanotus similis* (Kirby) EF424480
+1. *Melanotus verberans* (LeConte) EF424481
+1. *Melanotus depressus* (Melsheimer) EF424482
+1. *Conoderus lividus* (De Geer) EF424483
 
 
 (VII) Grants
