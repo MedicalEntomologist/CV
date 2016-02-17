@@ -48,7 +48,7 @@ Date  |Course
 ----------------
 **USN Entomology Liaison, CPT, US Army** (September 2015 - present)  
 *Navy Entomology Center of Excellence, Naval Air Station Jacksonville*  
-Serves as WRAIR Liaison to the Navy as well as Assistant Department Head of the Testing and Evaluation Department. Conducts evaluations on equipment and pesticides for the control of arthropod vectors.
+Serves as WRAIR Liaison to the Navy as well as Assistant Department Head of the Testing and Evaluation Department. Supervises a team of civilians, military and contractors to evaluate equipment and pesticides for the control of arthropod vectors.
 
 **Executive Officer, CPT, US Army** (June 2014 - June 2015)  
 *Executive Officer of the 154th Preventive Medicine Detachment, Republic of Korea*  
@@ -56,11 +56,11 @@ Responsible for routine sanitary inspections for five military installations, fi
 
 **Research Entomologist, CPT, US Army** (November 2011 - May 2014)  
 *Department of Vector Control, Entomology Branch, Walter Reed Army Institute of Research*  
-Developed and conducted research projects on the control of arthropod vectors of disease. PI or co-PI on several MIDRP, DHP, and DWFP projects. Collaborated both internally across departments at the WRAIR and externally with industry partners. Coordinated research projects with overseas DoD laboratories. Contracting Officer Representative on multiple SBIR Phase II and III projects. Served as PROFIS entomologist to the 1st Area Medical Laboratory.
+Developed and conducted research projects on the control of arthropod vectors of disease. PI or co-PI on several MIDRP, DHP, and DWFP projects. Collaborated both internally across departments at the WRAIR and externally with industry partners. Coordinated research projects with overseas DoD laboratories. Contracting Officer Representative on multiple SBIR Phase II and III projects. Collaborated with the Smithsonian Institute on morphological identification of mosquitoes. Served as PROFIS entomologist to the 1st Area Medical Laboratory.
 
 **Graduate Research Assistant** (January 2007 - May 2011)  
 *Department of Entomology, University of Nebraska - Lincoln, under Dr. Thomas Hunt and Dr. John E. Foster*  
-Responsibilities included laboratory work on dissertation and side projects, training fellow graduate students, upkeep of laboratory equipment, and purchasing supplies.
+Responsibilities included laboratory work on dissertation and side projects, training fellow graduate students, upkeep of laboratory equipment, and purchasing supplies. Primary research focus was on the population genetics of agricultural pests.
 
 **Teaching Assistant** (Spring Semester 2010)  
 *Department of Entomology, University of Nebraska - Lincoln, under Dr. Tiffany Heng-Moss*  
@@ -72,7 +72,7 @@ Assisted with projects and procedures regarding the rearing of screwworms for st
 
 **Graduate Research Assistant** (August 2004 - December 2006)  
 *Department of Entomology, University of Missouri - Columbia, under Dr. Thomas Clark*  
-Responsibilities included research on thesis project as well as several side projects, purchasing supplies, maintaining the laboratory, and managing grant funds.
+Responsibilities included research on thesis project as well as several side projects, purchasing supplies, maintaining the laboratory, and managing grant funds. Primary research focus was on the systematics of agricultural pests.
 
 
 (IV) Conference Presentations
