@@ -56,7 +56,7 @@ Responsible for routine sanitary inspections for five military installations, fi
 
 **Research Entomologist, CPT, US Army** (November 2011 - May 2014)  
 *Department of Vector Control, Entomology Branch, Walter Reed Army Institute of Research*  
-Developed and conducted research projects on the control of arthropod vectors of disease. PI or co-PI on several MIDRP, DHP, and DWFP projects. Collaborated both internally across departments at the WRAIR and externally with industry partners. Coordinated research projects with overseas DoD laboratories. Contracting Officer Representative on multiple SBIR Phase II and III projects. Collaborated with the Smithsonian Institute on morphological identification of mosquitoes. Served as PROFIS entomologist to the 1st Area Medical Laboratory.
+Developed and conducted research projects on the control of arthropod vectors of disease. PI or co-PI on several MIDRP, DHP, and DWFP projects. Collaborated both internally across departments at the WRAIR and externally with industry partners. Coordinated and conducted research projects at overseas DoD laboratories in Peru, Ghana, Liberia, and Thailand. Contracting Officer Representative on multiple SBIR Phase II and III projects. Collaborated with the Smithsonian Institute on morphological identification of mosquitoes. Served as PROFIS entomologist to the 1st Area Medical Laboratory.
 
 **Graduate Research Assistant** (January 2007 - May 2011)  
 *Department of Entomology, University of Nebraska - Lincoln, under Dr. Thomas Hunt and Dr. John E. Foster*  
